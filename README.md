@@ -1,1 +1,1 @@
-# willberries
+# willberries - Учебный проект
